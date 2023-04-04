@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <color name="black1">#1F1D2B</color>
+    <color name="blue1">#706FC2</color>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+
+</resources>
